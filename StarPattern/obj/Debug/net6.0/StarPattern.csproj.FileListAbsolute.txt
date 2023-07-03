@@ -1,0 +1,15 @@
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.csproj.AssemblyReference.cache
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.AssemblyInfoInputs.cache
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.AssemblyInfo.cs
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.csproj.CoreCompileInputs.cache
+C:\RFP 289\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.exe
+C:\RFP 289\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.deps.json
+C:\RFP 289\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.runtimeconfig.json
+C:\RFP 289\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.dll
+C:\RFP 289\StarPattern\StarPattern\bin\Debug\net6.0\StarPattern.pdb
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.dll
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\refint\StarPattern.dll
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.pdb
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\StarPattern.genruntimeconfig.cache
+C:\RFP 289\StarPattern\StarPattern\obj\Debug\net6.0\ref\StarPattern.dll
